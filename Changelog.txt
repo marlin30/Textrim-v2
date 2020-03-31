@@ -1,0 +1,9 @@
+v2 (25 September 2019)
+- Penambahan efek glitch / grunge pada judul blog dan judul artikel saat disorot (hover)
+- Pergantian font dari Merriweather dan Josefin Sans ke Montserrat
+- Penambahan pilihan 'no image' pada related post bawah artikel
+- Perubahan desain Related Post di dalam arikel
+- Perbaikan meta tag SEO
+- Perbaikan tampilan
+- Perbaikan penulisan kode HTML dan CSS
+- Perbaikan minor lainnya

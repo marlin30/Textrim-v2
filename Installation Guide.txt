@@ -1,0 +1,3 @@
+Highly recommended to install TEXTRIM theme with copy all the code and paste them to HTML editor in Blogger.
+-------------
+Upload XML method is NOT recommended.
